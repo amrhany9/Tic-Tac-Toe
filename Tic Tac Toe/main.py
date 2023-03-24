@@ -16,7 +16,7 @@ def print_board():
 
 # take input from player 
 def player_input():
-    inp = int(input("Enter Number Player " + current_player + "from 1-9:"))
+    input = int(input("Enter Number Player " + current_player + "from 1-9:"))
     if inp <= 9 and inp >= 1 and board[inp-1] == '-':
         board[inp-1] = current_player
     else:
