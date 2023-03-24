@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This is simple game using python
+This is simple Tic Tac Toe game by using numbers from (1 to 9) using python
